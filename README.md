@@ -134,13 +134,7 @@ jupyter notebook
 
 The repository also includes `Telco_Customer_Churn_Report.pdf`, which provides a report for reviewing the project.
 
-## 🚀 Future Improvements
 
-- Calculate churn rates for each customer segment.
-- Analyze churn against tenure and monthly charges.
-- Investigate customer feedback and reasons for leaving, where available.
-- Build an interactive dashboard using Power BI or Tableau.
-- Develop a machine learning model to predict customer churn.
 
 ## 🏁 Conclusion
 
